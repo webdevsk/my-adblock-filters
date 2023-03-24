@@ -1,0 +1,4 @@
+! 2023-03-04 https://m.facebook.com
+m.facebook.com##article:has(header:has-text("Suggested for you"))
+m.facebook.com##article:has(header:has-text("Sponsored"))
+m.facebook.com##article:has(header:has-text("Suggested Groups"))
